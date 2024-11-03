@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at SJTU.
 - 🌱 I’m currently learning:
   - front-end: vue3, typescript.
-  - back-end: java/c++ ( I know it is not appropriate to learn 2 programming languages at the same time 😂.)
+  - back-end: java/c++ ( I know it is not appropriate to learn 2 programming languages at the same time 😂).
   - computer network: Software Defined Network.
 <!--
 - 👯 I’m looking to collaborate on ...
