@@ -10,6 +10,9 @@ Here are some ideas to get you started:
   - front-end: vue3, typescript.
   - back-end: java/c++ ( I know it is not appropriate to learn 2 programming languages at the same time 😂).
   - computer network: Software Defined Network.
+- 🛸 My Website Home Page:  https://www.yuanqiyuanluo.top/
+- 🗺️ My Blog: https://www.yuque.com/wanmeishijie-elvsw/im0v59
+- ![](https://avatars.githubusercontent.com/u/34602419?s=200&v=4) My Yueque Page: https://www.yuque.com/wanmeishijie-elvsw/
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
