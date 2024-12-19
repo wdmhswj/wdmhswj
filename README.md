@@ -11,8 +11,9 @@ Here are some ideas to get you started:
   - back-end: java/c++ ( I know it is not appropriate to learn 2 programming languages at the same time 😂).
   - computer network: Software Defined Network.
 - 🛸 My Website Home Page:  https://www.yuanqiyuanluo.top/
-- 🗺️ My Blog: https://www.yuque.com/wanmeishijie-elvsw/im0v59
+- 🗺️ My Blog: https://blog.yuanqiyuanluo.top/
 -  <img src="https://avatars.githubusercontent.com/u/34602419?s=200&v=4" width="14px">  My Yueque Page: https://www.yuque.com/wanmeishijie-elvsw/
+  -  📄 My Yueque public blog: https://www.yuque.com/wanmeishijie-elvsw/im0v59
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
